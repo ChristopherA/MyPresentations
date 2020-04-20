@@ -10,7 +10,7 @@ layout:    talk
 
 Body text
 
-<div style="text-align:center;font-size:-3">
+<div style="text-align:right; font-size:-4">
 [presentation](https://christophera.github.io/MyPresentations/MyDefaultTemplate) / [source](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTemplate.md)
 </div>
 
