@@ -1,7 +1,7 @@
 ---
-title:     Your Title Here
-author:    Your Name Here
-date:      November 11, 2017
+title:     MyDefaultTemplate: Title of My Presentation
+author:    Christopher Allen (@ChristopherA)
+date:      April 20, 2020
 
 layout:    talk
 ---
@@ -10,7 +10,9 @@ layout:    talk
 
 Body text
 
-<p style="text-align:center;font-size:-3"> [presentation](https://christophera.github.io/MyPresentations/MyDefaultTemplate) / [source](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTemplate.md) </p>
+<div style="text-align:center;font-size:-3">
+[presentation](https://christophera.github.io/MyPresentations/MyDefaultTemplate) / [source](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTemplate.md)
+</div>
 
 ---
 
