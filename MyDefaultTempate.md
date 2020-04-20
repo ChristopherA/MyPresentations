@@ -1,3 +1,11 @@
+---
+title:     Your Title Here
+author:    Your Name Here
+date:      November 11, 2017
+
+layout:    talk
+---
+
 # Title
 
 ---
