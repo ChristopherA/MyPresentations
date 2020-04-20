@@ -3,7 +3,7 @@ title:     MyDefaultTemplate: Title of My Presentation
 author:    Christopher Allen (@ChristopherA)
 date:      November 11, 2017
 
-layout:    MyDefaultTemplate: Title of My Presentation
+layout:    talk
 ---
 
 # MyDefaultTemplate: Title of My Presentation
