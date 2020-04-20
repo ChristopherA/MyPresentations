@@ -1,12 +1,12 @@
 ---
-title:     MyDefaultTemplate: Title of My Presentation
+title:     MyDefaultTemplate — Title of My Presentation
 author:    Christopher Allen (@ChristopherA)
 date:      April 20, 2020
 
 layout:    talk
 ---
 
-# MyDefaultTemplate: Title of My Presentation
+# MyDefaultTemplate - Title of My Presentation
 
 Body text
 
