@@ -1,4 +1,5 @@
 plugins:
 - jekyll-remote-theme
 
-remote_theme: slidekit/jekyll-talks-theme
+#remote_theme: slidekit/jekyll-talks-theme
+remote_theme: henrythemes/jekyll-talks-theme
