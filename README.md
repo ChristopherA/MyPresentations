@@ -34,13 +34,13 @@
 
 | Presentations                                  | Source                  | Hashtags | Version |
 | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [MyDefaultTemplate](https://christophera.github.io/MyPresentations/) | [MyDefaultTemplate](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTempate.md) | #Markdown #RevealJS #Slide #Template | Template |
+| [MyDefaultTemplate](https://christophera.github.io/MyDefaultTempate.md) | [MyDefaultTemplate](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTempate.md) | #Markdown #RevealJS #Slide #Template | Template |
 
 ### All Lists
 
 | Key Hashtags in List                                         | Version                        | Hashtags | Version |
 | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [MyDefaultTemplate](https://christophera.github.io/MyPresentations/) | MyDefaultTemplate](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTempate.md) | Markdown #RevealJS #Slide #Template | Template |
+| [MyDefaultTemplate](https://christophera.github.io/MyDefaultTempate.md) | MyDefaultTemplate](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTempate.md) | Markdown #RevealJS #Slide #Template | Template |
 
 ## Copyright & License
 
