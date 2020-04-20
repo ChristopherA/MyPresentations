@@ -34,13 +34,13 @@
 
 | Presentations                                  | Source                  | Hashtags | Version |
 | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [MyDefaultTemplate: Title of My Presentation](https://christophera.github.io/MyPresentations/MyDefaultTemplate.md) | [MyDefaultTemplate](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTemplate.md) | #Markdown #RevealJS #Slide #Template | Template |
+| [MyDefaultTemplate: Title of My Presentation](https://christophera.github.io/MyPresentations/MyDefaultTemplate) | [MyDefaultTemplate](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTemplate.md) | #Markdown #RevealJS #Slide #Template | Template |
 
 ### All Lists
 
 | Key Hashtags in List                                         | Version                        | Hashtags | Version |
 | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [MyDefaultTemplate: Title of My Presentation](https://christophera.github.io/MyPresentations/MyDefaultTemplate.md) | [MyDefaultTemplate](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTemplate.md) | Markdown #RevealJS #Slide #Template | Template |
+| [MyDefaultTemplate: Title of My Presentation](https://christophera.github.io/MyPresentations/MyDefaultTemplate) | [MyDefaultTemplate](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTemplate.md) | Markdown #RevealJS #Slide #Template | Template |
 
 ## Copyright & License
 
