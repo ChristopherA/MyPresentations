@@ -32,15 +32,15 @@
 
 ### My Current Presentations in Focus
 
-| Presentations                                  | Version                        |
-| ------------------------------------------------------------ | ------------------------------ |
-| [MyDefaultTemplate.md](./MyDefaultTemplate.md) | Template                    |
+| Presentations                                  | Source                  | Hashtags | Version |
+| ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [MyDefaultTemplate](https://christophera.github.io/MyPresentations/) | [MyDefaultTemplate](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTempate.md) | #Markdown #RevealJS #Slide #Template | Template |
 
 ### All Lists
 
-| Key Hashtags in List                                         | Version                        |
-| ------------------------------------------------------------ | ------------------------------ |
-| [MyDefaultTemplate.md](./MyDefaultTemplate.md) | Template |
+| Key Hashtags in List                                         | Version                        | Hashtags | Version |
+| ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [MyDefaultTemplate](https://christophera.github.io/MyPresentations/) | MyDefaultTemplate](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTempate.md) | Markdown #RevealJS #Slide #Template | Template |
 
 ## Copyright & License
 
@@ -72,13 +72,13 @@ I only use this versioning approach for the individual presentations. I do not u
 - [ ] Needs style guide.
 - [ ] Add section (or #MarkdownPresentations list) about the various tools and techniques that I use to create presentations.
 - [ ] Add section to list my supporters in the last quarter.
-- [ ] Add thanks you to people collaborated with me on slides. 
+- [ ] Add thanks you to people collaborated with me on slides.
 - [ ] Setup GitHub Actions
     - [ ] Markdown Link Checker
-        - [ ] Install gaurav-nelson/github-action-markdown-link-check@v1 
+        - [ ] Install gaurav-nelson/github-action-markdown-link-check@v1
         - [ ] Investigate alternative markdown link checkers
         - [ ] Set up link-checker badge on each page
     - [ ] Markdown TOC Builder
         - [x] Currently manually using https://ecotrust-canada.github.io/markdown-toc/
     - [ ] Markdown Lint
-- [ ] 
+- [ ]
