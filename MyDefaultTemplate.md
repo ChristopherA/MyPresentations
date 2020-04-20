@@ -1,6 +1,6 @@
 ---
-title:     MyDefaultTemplate: Title of My Presentation
-author:    Christopher Allen (@ChristopherA)
+title:     Your Title Here
+author:    Your Name Here
 date:      November 11, 2017
 
 layout:    talk
