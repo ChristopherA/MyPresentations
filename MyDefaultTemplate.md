@@ -1,12 +1,16 @@
 ---
-title:     Your Title Here
-author:    Your Name Here
+title:     MyDefaultTemplate: Title of My Presentation
+author:    Christopher Allen (@ChristopherA)
 date:      November 11, 2017
 
-layout:    talk
+layout:    MyDefaultTemplate: Title of My Presentation
 ---
 
-# Title
+# MyDefaultTemplate: Title of My Presentation
+
+Body text
+
+<p style="text-align:center;font-size:-3">[presentation](https://christophera.github.io/MyPresentations/MyDefaultTemplate)/[source](https://github.com/ChristopherA/MyPresentations/blob/master/MyDefaultTemplate.md)</p>
 
 ---
 
@@ -19,3 +23,5 @@ layout:    talk
 ---
 
 # Introduction
+
+More Body
